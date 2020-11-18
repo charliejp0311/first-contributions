@@ -28,6 +28,7 @@
 - [Raquel] (https://github.com/rcurutchet)
 - [John McCracken](https://github.com/johnmccuk)
 - [TomKCA]()
+- [Charles Pelton](https://github.com/charliejp0311)
 - [Hemant Patel](https://github.com/Hemant-Dev)
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
